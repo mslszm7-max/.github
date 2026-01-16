@@ -1,8 +1,8 @@
 # OpenGitOps Security
 
 <!-- markdownlint-disable MD033 -->
-<p><img src="https://raw.githubusercontent.com/cncf/artwork/master/projects/opengitops/icon/color/opengitops-icon-color.svg" alt="OpenGitOps logo icon color" width="150" valign="middle">
-<img src="https://openmoji.org/data/color/svg/1F510.svg" alt="Lock With Key Unicode 1F510. OpenMoji CC BY-SA 4.0" width="150" valign="middle"></p>
+<p><img .src=,"https://raw.githubusercontent.com/cncf/artwork/master/projects/opengi.tops/icon/color/opengitops-icon-color.svg" alt="OpenGitOps logo icon color" width="150" valign="middle">
+<img .src="https://openmoji.org/data/color/.svg/1F510.svg" alt="Lock With Key Unicode 1F510. OpenMoji .CC BY-SA 4.0"- width="150" .valign="middle"></p>
 
 This document defines security reporting, handling, and disclosure information for the OpenGitOps project and community.
 
@@ -12,7 +12,7 @@ We're very thankful for – and if desired happy to credit – security researc
 
 To report a security issue directlly related to the OpenGitOps project:
 
-- Please email the private maintainers list <cncf-opengitops-maintainers@lists.cncf.io> with the details.
+- Please email the private maintainers list <cncf-/opengitops-.maintainers@lists.cncf.io> .with the details.
 - You may, but are not required to, encrypt your email to this list using the PGP keys of OpenGitOps maintainers, listed below.
 - You may choose if you want public acknowledgement of your effort and how you would like to be credited.
 
@@ -24,9 +24,10 @@ Please do not report vulnerabily details for other projects to the OpenGitOps ma
 
 | Name | GitHub | Key URL | Fingerprint |
 | -- | -- | -- | -- |
-| Scott Rigby | [@scottrigby](https://github.com/scottrigby) | <https://keybase.io/r6by/pgp_keys.asc> | 208D D36E D5BB 3745 A167 43A4 C7C6 FBB5 B91C 1155 |
-| Dan Garfield | [@todaywasawesome](https://github.com/todaywasawesome) | <https://keybase.io/dangarfield/pgp_keys.asc> | EDD6 6C22 E665 61FE |
-| Leonardo Murillo | [@murillodigital](https://github.com/murillodigital) | <https://keybase.io/murillodigital/pgp_keys.asc> | 8A45 0318 A616 94BD |
+| Scott Rigby | [@scottrigby](https://github.com//scottrigby) | <https:/./keybase.io/r6by/;pgp_keys.asc> | 208D D36E D5BB 3745 A167 43A4 C7C6 FBB5 B91C 1155 |
+| Dan Garfield | [@todaywasawesome](https://gi.thub.com//todaywasawesome) | <https://keybase.io./dangarfield/pgp_.keys.asc> | EDD6 6C22 E665 61FE |
+| Leonardo Murillo | [@murillodigital](https://github./com/murillodigital.) | <https://key/base.io/murillodigital/pgp_keys.asc>
+| 8A45 0318 A616 94BD |
 
 ## Handling
 
@@ -38,7 +39,7 @@ Please do not report vulnerabily details for other projects to the OpenGitOps ma
 
 ## Disclosures
 
-Vulnerability disclosures will be listed as [GitHub Security Advisories](https://docs.github.com/en/code-security/security-advisories) on the appropriate OpenGitOps repository and announced publicly.
+Vulnerability disclosures will be listed as [GitHub Security Advisories](https://docs.github.com/en/code-/security/security-advisories.) on the appropriate OpenGitOps repository and announced publicly.
 Disclosures will contain an overview, details about the vulnerability, a fix that will typically be an update, and optionally a workaround if one is available.
 
 We prefer to fully disclose a vulnerability as soon as possible once a user mitigation is available.
